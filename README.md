@@ -1,67 +1,76 @@
 # Machine Learning–Driven E-Commerce Fraud Prevention for the U.S. Digital Economy
 
-This repository contains research prototypes and experimental code for an
-**AI/ML-based fraud detection framework** designed to protect the **U.S. digital economy**
-across three major vectors:
+This repository contains ongoing machine learning research aimed at reducing online fraud affecting U.S. consumers and retailers.
 
-1. **Online shopping fraud** (fake stores, non-delivery scams, social media scams)
-2. **Phishing-enabled fraud** (malicious URLs, credential theft, account takeover)
-3. **Digital payment fraud** (fraudulent transactions, unauthorized payments, chargebacks)
+The project focuses on three significant fraud categories affecting national digital commerce:
 
-The goal is to develop **scalable machine learning models** and simple prototype applications
-that demonstrate real-time fraud risk scoring for online transactions.
+1. Online shopping fraud (fake stores, non-delivery scams)
+2. Phishing-enabled fraud (malicious URLs and credential theft)
+3. Digital payment fraud (unauthorized transactions)
 
-> ⚠️ All data in this repository are **synthetic** or **anonymized** and are used only for
-> research and demonstration purposes.
+The initiative supports safer e-commerce environments and improved consumer trust, both of which are essential for the resilience of the U.S. digital economy.
 
 ---
 
 ## 🔹 Project Objectives
 
-- Build a **modular ML pipeline** for fraud detection workflows
-- Create **risk-scoring models** for online transactions and URLs
-- Develop a **prototype dashboard** for demonstrating real-time fraud alerts
-- Provide results that support:
-  - Academic research collaborations
-  - U.S. industry pilot testing
-  - Future government funding proposals
+- Develop ML models to detect fraudulent transactions
+- Analyze behavioral and technical fraud indicators (device, IP, location anomalies)
+- Create real-time risk scoring and alerting methods
+- Generate insights to support academic research and cybersecurity improvements
 
-This project directly supports **U.S. consumer protection, cybersecurity,
-and secure digital financial systems**, which have been recognized as national
-priorities by the FTC, DHS, and NSTC.
+This work aligns with **federally recognized** national needs in cyber fraud prevention and digital economic protection.
 
 ---
 
 ## 🔹 Tech Stack
 
-- **Python**, NumPy, Pandas, Scikit-Learn
-- PyTorch / TensorFlow (planned enhancements)
-- Streamlit (prototype UI for model testing)
+- Python, NumPy, Pandas, Scikit-Learn
+- Jupyter Notebooks for model experimentation
+- Streamlit prototype planned for future testing
 
 ---
 
-## 🔹 Status
+## 🔹 Status: Active Research and Development
 
-🟡 **Phase 1 — Research & Prototyping Underway**
+Current assets include:
 
-Current contents include:
-- Initial architecture documents
-- Baseline ML model development (in progress)
-- Synthetic datasets for demonstration
+- Dataset integrated into ML pipeline
+- Baseline and advanced fraud detection models (in progress)
+- Documentation of architecture and national priority relevance
+- Evaluation notebooks for performance validation
 
-Planned additions:
-- Advanced ML models
-- Browser extension risk alert prototype
-- Pilot testing with U.S academic/industry partners
+Future expansions:
+
+- Risk scoring prototype tools
+- Additional features for complex fraud behavior detection
+
+Development is ongoing as part of an early-stage research initiative.
+
+---
+
+## 📂 Repository Structure
+
+data/ ← E-commerce fraud dataset
+scripts/ ← Machine learning scripts
+notebooks/ ← Model training & evaluation
+docs/ ← System architecture & national relevance
+README.md ← Project overview
+
+
+
+---
+
+## 🧠 Research Context
+
+The project is motivated by the growing challenges in online fraud reported by U.S. federal agencies and research institutions. By leveraging machine learning models tailored to e-commerce risks, this initiative aims to provide scalable, automated defense mechanisms to strengthen the security of the U.S. digital economy.
 
 ---
 
 ### 📬 Contact
 
 Research Lead: **Md Kamrul Hasan Chy**  
-Location: Bloomington, IL, USA
+Location: Bloomington, IL — United States
 
-This repository is part of a broader initiative to help secure the U.S. digital marketplace and protect millions of American consumers from online fraud.
-
-Initial professional README
+This project aims to contribute long-term protections for millions of American consumers participating in the U.S. digital marketplace.
 
