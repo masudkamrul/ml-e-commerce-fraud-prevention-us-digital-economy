@@ -1,4 +1,4 @@
-# Machine Learning–Driven Fraud Prevention for the U.S. Digital Economy
+# Machine Learning–Driven E-Commerce Fraud Prevention for the U.S. Digital Economy
 
 This repository contains research prototypes and experimental code for an
 **AI/ML-based fraud detection framework** designed to protect the **U.S. digital economy**
