@@ -66,11 +66,12 @@ As documented by FTC and IC3 reports, online shopping fraud causes **billions in
 
 | Component | Status |
 |----------|:-----:|
-| Dataset integration | ✔ Complete |
-| Baseline and advanced ML models | ✔ Completed |
-| Evaluation metrics and dashboards | ✔ In progress |
+| Dataset integration | 🚧 In progress |
+| Baseline and advanced ML models | 🚧 In progress |
+| Evaluation metrics and dashboards | 🚧 In progress |
 | Web risk scoring prototype | 🚧 Under development |
 | Payment verification module | 🚧 Research phase |
+
 
 ---
 
