@@ -59,7 +59,6 @@ Planned additions:
 ### 📬 Contact
 
 Research Lead: **Md Kamrul Hasan Chy**  
-Email: [add your email]  
 Location: Bloomington, IL, USA
 
 This repository is part of a broader initiative to help secure the U.S. digital marketplace and protect millions of American consumers from online fraud.
